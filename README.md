@@ -5,6 +5,7 @@ Overview  ---
 This project presents the design and simulation of a 16-bit register file based on RISC-V architecture principles. Implemented using Logisim, the design employs decoder-based write selection and multiplexer-based read operations to store and access processor data.
 
 
+
 Implementation---
 
 Write Operation (Decoder-Based)
@@ -33,3 +34,7 @@ The decoder selects the required register for writing, and the selected register
 The stored values are read correctly through the multiplexers according to the given read addresses.  
 Two registers can be accessed at the same time, matching the dual-read behavior of a RISC-V register file.
 
+note:
+method to access  -- 
+Download the zip file and extract the .circ file
+once its open in logisim , double click on the reg16 file under dev0, you can find this near the input blocks on the left hand side of the software.
