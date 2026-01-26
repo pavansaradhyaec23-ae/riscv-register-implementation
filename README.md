@@ -38,3 +38,6 @@ note:
 method to access  -- 
 Download the zip file and extract the .circ file
 once its open in logisim , double click on the reg16 file under dev0, you can find this near the input blocks on the left hand side of the software.
+
+
+![Register File Circuit](image.png)
