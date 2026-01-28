@@ -41,3 +41,5 @@ once its open in logisim , double click on the reg16 file under dev0, you can fi
 
 
 ![Register File Circuit](image.png)
+
+link to vid:http://drive.google.com/drive/folders/1pSg9XQIRXOItXpCWQJCccKT69NzCsTlt
